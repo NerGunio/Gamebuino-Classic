@@ -79,7 +79,7 @@
 #define VOLUME_CHANNEL_MAX 255/NUM_CHANNELS/7/9 //7=instrument volume 9=note volume
 
 //battery voltage monitor
-#define BAT_PIN A6
+#define BAT_PIN A5
 #define NUM_LVL 4
 #define BAT_LVL_CRITIC  3500
 #define BAT_LVL_LOW		3550
